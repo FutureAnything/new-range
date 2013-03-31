@@ -1,0 +1,18 @@
+{
+  "name": "new-range",
+  "version": "0.0.0",
+  "description": "Returns an array of nums from start to end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "repository": {
+    "url": "git@github.com:azer\/new-range.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
